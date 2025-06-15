@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React.js, Tailwind CSS, and starting with Node.js and Express.js for backend.  
 - 💞️ I’m looking to collaborate on open source frontend projects, beginner-friendly full-stack apps, and anything that helps improve my skills and contributes to the dev community.  
 - 📫 How to reach me: Email: mutuvyaeric@gmail.com 
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love learning by building real-world projects and turning design ideas into functional websites.  
 
 <!---
